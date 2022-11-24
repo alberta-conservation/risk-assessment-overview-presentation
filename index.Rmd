@@ -7,15 +7,24 @@ date: "2022/12/15 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     lib_dir: libs
+    seal: false
     nature:
+      ratio:  '16:9'
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
 ---
 
 background-image: url('background.png')
+background-size: cover
 
-# Biodiversity Risk Assessment in the Oil Sands Region 
+# Biodiversity Risk Asessment in the Oil Sands Region 
 
+### *Actionable science for making decisions* 
+
+
+
+## Andy Crosby | Scott Nielsen | Erin Bayne 
+### December 15, 2022  
 
 ---
