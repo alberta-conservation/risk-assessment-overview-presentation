@@ -1,0 +1,21 @@
+---
+title: "Biodiversity Risk Assessment in the Oil Sands Region"
+subtitle: "Actionable Science for Making Decisions"
+author: "Andy Crosby"
+institute: "Alberta Biodiversity Conservation Program"
+date: "2022/12/15 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+background-image: url('background.png')
+
+# Biodiversity Risk Assessment in the Oil Sands Region 
+
+
+---
