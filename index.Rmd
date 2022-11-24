@@ -8,15 +8,21 @@ output:
   xaringan::moon_reader:
     lib_dir: libs
     seal: false
+    chakra: libs/remark-latest.min.js
     nature:
       ratio:  '16:9'
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+      self_contained: true
 ---
+
+layout: true
 
 background-image: url('background.png')
 background-size: cover
+
+---
 
 # Biodiversity Risk Asessment in the Oil Sands Region 
 
@@ -26,5 +32,43 @@ background-size: cover
 
 ## Andy Crosby | Scott Nielsen | Erin Bayne 
 ### December 15, 2022  
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+##### Background image credit: Michael Benz
+---
+
+# **The Roadmap:** 
+
+--
+
+## Describing our overall approach 
+
+--
+
+## Risk Assessment vs. 'Prediction' 
+
+--
+
+## From science to decisions
 
 ---
+
+# **Climate Adaptation and the R.A.D. framework** 
+
+## The  world has moved on...     (Roland Deschain, 'The Gunslinger')  
+
+
+# .center[ **Adaptation**]  
+
+## So what should we do? 
+
+# .center[**R**esist | **A**ccept | **D**irect]
+
+
+---
+
