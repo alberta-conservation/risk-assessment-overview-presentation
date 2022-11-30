@@ -83,14 +83,8 @@ background-size: cover
 layout: false 
 
 # **Ecosystem Transformation** 
-
-```{r, echo=FALSE, out.width="70%", fig.cap="(Thompson et al. 2022; Fisheries)"}
-knitr::include_graphics("transformation.png")
-
-```
-
-
-
+(Thompson et al. 2022; Fisheries)
+<img src="transformation.png" width="75%" align="right" />
 
 ---
 # **Changing Response Pathways in the Boreal ** 
