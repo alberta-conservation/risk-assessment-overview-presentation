@@ -60,7 +60,7 @@ background-size: cover
 
 # **Climate Adaptation and the R.A.D. framework** 
 
-## The  world has moved on...     (Roland Deschain, 'The Gunslinger')  
+## The  world has moved on...  
 
 
 # .center[ **Adaptation**]  
@@ -71,4 +71,53 @@ background-size: cover
 
 
 ---
+
+# **Ecosystem Transformation** 
+## The emergence of new ecological states
+<br />
+## Caused by disturbance-climate Interactions
+<br />
+## Occurring at unprecedented rates
+
+---
+layout: false 
+
+# **Ecosystem Transformation** 
+
+```{r, echo=FALSE, out.width="70%", fig.cap="(Thompson et al. 2022; Fisheries)"}
+knitr::include_graphics("transformation.png")
+
+```
+
+
+
+
+---
+# **Changing Response Pathways in the Boreal ** 
+
+.pull-left[
+### 1. **Resilliance:** historic  successional pathway
+### 2. **Restructuring:** same composition, new structure 
+### 3. **Reassembly:** same structure, new composition
+### 4. **Replacement:** new composition and structure
+### 5. **Regime shift:** no longer a forest
+]
+
+.pull-right[
+![](response-pathways.jpg)
+#### (Seidle and Turner 2022; PNAS)
+]
+
+---
+layout: true 
+background-image: url('background.png')
+background-size: cover
+---
+# **A RADical Response** 
+
+## Trade-offs: 
+- Management goals
+- Societal values
+- Available resources 
+
 
