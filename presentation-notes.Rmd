@@ -1,0 +1,114 @@
+---
+# title: 
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+
+bibliography: C:/Users/crosby/Documents/zotero-references.json
+csl: common/journal-of-animal-ecology.csl
+zotero: true
+
+output: 
+  word_document:
+       reference_docx: common/word-styles-reference-jae.docx
+
+fontsize: 12pt
+mainfont: Cambria
+
+fig_caption: yes
+
+
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+knitr::opts_knit$set(root.dir = normalizePath(".."))  #Sets the working directory to the project folder
+```
+
+
+# **Biodiversity Risk Assessment in the Oil Sands Region of Alberta, Canada** 
+# Presentation notes 
+
+
+### **Slide 1: Introduction** 
+Hi again everyone. It's great to be able to do this presentation so early in the project cycle so we can start the feedback process and make sure we're all going down the same road in terms of understanding the project and what expectations are for developing this research. 
+
+### **Slide 2:Roadmap** 
+I want to start of with a quick roadmap of the presentation so we all know where we're going with this. 
+
+- First, I'm going to set the context by describing how we are approaching this project, and why. I have to admit that I don't know my audience terribly well, so I'm likely going to be saying things you already know, but I want to make sure a frame this research correctly so that the subsequent parts make sense. 
+
+- Second, I want to give a more specific description of what we mean by risk assessment, and talk about why we want to approach it this way. 
+
+- Finally, I'm going to try to tie it together by talking about why this approach is so relevant to the decision-making process. 
+
+### **Slide 3: Climate Adaptation and the R.A.D. framework** 
+So, the big question facing us here is: how can we best understand and mitigate the risks to biodiversity imposed by oil sands development in Alberta. 
+In the short term and at small spatial scales, we're mainly talking about habitat changes from disturbances like well pads, roads, and seismic lines. In the long term, however, one of the bigger challenges in answering this question is dealing with the complications imposed by climate change.  
+
+- Traditionally, we would have thought about mitigation, restoration, and biodiversity conservation according to historical responses of landscapes to disturbance, and within the context of the natural range of variability for species, ecosystems, and landscapes. 
+
+- Because of climate change, however, as Roland Deschaine kept reminding himself in Steven King's Gunslinger series, 'The world has moved on', meaning that things aren't happening the way they used to. 
+
+- The wide-ranging and inevitable impacts of climate change on disturbance regimes, vegetation successional pathways, and species survival and reproduction means that reliance on traditional paradigms in wildlife management and restoration ecology are unlikely to achieve long term, large scale conservation goals. 
+
+- As a result, managers are increasingly shifting to a climate adaptation approach to managing wildlife and developing long-term conservation plans in the face of climate change. 
+
+- And, what has come to be formalized as the resist-accept-direct framework is becoming central to developing climate adaptation strategies. 
+
+
+### **Slide 4: Some terms** 
+As we talk about the context, I want to define some terms: 
+
+- First, when we say adaptation in this context, we are talking about the intentional adjustment of natural systems to reduce risks from climate change.  
+  - For example 
+
+
+### **Slide __: Defining the problem** 
+I want to take a minute here to define the problem in using ecological models to predict future conditions. 
+
+
+### **Slide __: the risk assessment approach** 
+Why use risk assessment? 
+
+- we know that the future is uncertain 
+- the key objective of the risk assessment approach is to develop the tools to formally account for that uncertainty 
+- the result is that uncertiainty can then be incorporated into the decision-making process 
+
+### **Slide __: the risk assessment approach** 
+In describing this approach, I'm going to talk about 2 papers that I think really lay the groundwork for why we should be taking a risk assessment approach, and provide a roadmap for how to go about it. 
+
+- the first is a paper in Forest Ecology and Management lead by Colin Daniel at ApexRMS consulting service, where they show that failing to consider uncertainty in the outcomes of ecological processes -- in this case wildlifer -- means that timber harvest projections are almost always going to be overly optimistic; particularly under climate change. 
+
+- the second paper is by a friend of mine form my PhD program named Brian Stevens, where he took a risk assessment approach to the problem of setting turkey harvest regulations in Michigan. The uniqueness of this project was not only the use of risk assessment, but also that they incorporated it into a structured decision-making process with stakeholder input to determine management targets and trigger points for changing management.
+
+
+### **Slide __: setting management reference points** 
+
+- need to define what we mean by 'sustainable' 
+
+- Rather than a traditional population model, we have a SDM that assumes a relationship between habitat and population 
+
+- Rather than a harvest dynamics model, we have a model of population response to disturbance that links to the habitat-population model 
+
+- Rather than being limited by population assessment, we are limited by our understanding of 
+
+- We will use simulations and sensitivity analysis to identify uncertainties that have a large effect on performance measures 
+
+
+### **Slide __: adapting research to the decision-making context** 
+
+- Making state-dependent management decisions 
+
+- Decide on appropriate performance measures
+
+- making sure that guidance for climate adaptation is constant with the decision space and authority of the decision-makers, as well as the spatial scales at which the changes are occurring over which the managers are operating. 
+
+
+### **Slide __: The critical importance of spatial scale** 
+
+
+
+
+
+

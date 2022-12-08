@@ -1,0 +1,56 @@
+---
+# title: 
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+
+bibliography: C:/Users/crosby/Documents/zotero-references.json
+csl: common/journal-of-animal-ecology.csl
+zotero: true
+
+output: 
+  word_document:
+       reference_docx: common/word-styles-reference-jae.docx
+
+fontsize: 12pt
+mainfont: Cambria
+
+fig_caption: yes
+
+
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+knitr::opts_knit$set(root.dir = normalizePath(".."))  #Sets the working directory to the project folder
+```
+
+
+# **Biodiversity Risk Assessment in the Oil Sands Region of Alberta, Canada** 
+
+
+## Andrew Crosby^1,^$^\dag$ | Scott Nielson^1^ | Erin Bayne^2^ 
+
+^1^Department of Renewable Resources, University of Alberta, 751 General Services Building, Edmonton, Alberta T6G 2H1, Canada  
+^2^Department of Biological Sciences, University of Alberta, CW405 Biological Sciences Building, Edmonton, Alberta T6G 2E9, Canada  
+
+$^\dag$Corresponding Author: Email: crosby@ualberta.ca
+
+### **Introduction** 
+The province of Alberta, like others regions throughout Canada and the world, relies heavily on natural resource extraction from the boreal region for its economic well being. Consequently, there are significant concerns surrounding cumulative environmental effects of anthropogenic disturbances on biodiversity, particularly within the Oil Sands Region (OSR) [@Venier2014]. Surface mining of oil sands has received the lion’s share of the focus thus far [e.g., @Ronconi2005; @Brown2014]. However, subsurface mining (commonly referred to as *in situ* oil sands) occurring over the larger 142,000 km^2^ OSR represents a growing share of Alberta’s oil sands output and disturbance. For animal and plant species in the oil sands, mining infrastructure such as well pads, pipelines, and roads, result in habitat loss and fragmentation [@Pickell2015; @Fisher2018]. Exploratory seismic lines further fragment landscape patterns and increase movements of some organisms, substantially affecting landscape patterns and ecological processes, and altering biotic interactions among species [@Pickell2015; @Dickie2020]. Although the intensity of oil sands disturbance (footprint) from *in situ* mining is much lower locally than surface mining, the extent of the area and their potential to affect interior habitats and animal movement means overall biodiversity impact could be much larger.  
+
+
+
+
+
+## **References** 
+
+<div id="refs"></div>
+
+
+## Appendix
+
+
+
+
+
