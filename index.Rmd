@@ -103,7 +103,7 @@ layout: false
 ]
 
 .pull-right[
-![](response-pathways.jpg)
+<img src="response-pathways.png" width="75%" align="right" />
 #### (Seidle and Turner 2022; PNAS)
 ]
 
@@ -116,63 +116,50 @@ background-size: cover
 # **The Problem of Predicting the Future** 
 <br >
 ##.center[We know that the future is uncertain.]
+<br >
 
-##.center[Future ecosystem states are difficult (*Impossible*) to predict]
+##.center[Future ecosystem states are difficult (i.e. *Impossible*) to predict]
 
 
 ---
 layout: false 
 
-# **Prediction vs. Forecasting** 
+# **The limits of deterministic modelling** 
 
 ```{r reg-plot, echo = FALSE, fig.show = "hide", include = FALSE}
 library(ggplot2)
 n <- 100; a = 1; b = 0.15; sigma2 = 5; x = sample(seq(10, 100, 10), 100, replace = TRUE)
+set.seed(111)
 eps = rnorm(n, mean = 0, sd = sqrt(sigma2)) 
-y <- a + b*x + eps 
+y <- a + b*x + eps*(0.05*x)
 
-ggplot() + aes(x, y) + geom_point(colour = "blue") + stat_smooth(method = lm, formula = y ~ x, geom = "smooth") + xlab("% forest cover") + ylab("Bird density")
+ggplot() + aes(x, y) + geom_point(colour = "blue") + stat_smooth(method = lm, formula = y ~ x, geom = "smooth") + xlab("Time since disturbance") + ylab("Forest cover") + theme(axis.text = element_blank())
 
 ggsave(filename = "reg-plot.png", width = 2.5, height = 1.8) 
 
 ```
-.left-plot[
-![](reg-plot.png)
-]
-
-
+<img src="reg-plot.png" width="70%" align="left" />
 
 ---
-# **Prediction vs. Forecasting** 
+# **The limits of deterministic modelling** 
 
-## Talk about the coin flip and the weigheted coin 
-
----
-# **Prediction vs. Forecasting** 
-
-## Talk about rolling a die and the die being weighted 
+<img src="reg-plot-uncertainty.png" width="70%" align="left" />
 
 ---
-# **Prediction vs. Forecasting** 
-
-## Talk about rolling multiple dice and different die being weighted in different ways 
-
-## Make a point of the difficulty of predicting what the outcome will be with so many possibilities 
-
-## Talk about how it makes more sense to ask different quesitions, e.g.: 
-
-- What is the probability of at least 3 of the dice being > 4? 
-
-- What is the risk that at least 2 of the dice will be < 3?  
-
----
-# The Risk Assessment Approach 
+# **Forecasting and the Risk Assessment Approach**  
 
 ## Why?
 
-## .center[The outocme of mulitple interacting stochastic processes is inherently uncertain]
+## .center[Forecasting formally accounts for uncertainty in future outcomes]
+<br >
 
-##.center[The key objective of the risk assessment approach is to develop the necessary tools to deal with that uncertainty. ]
+##.center[Risk assessment estimates the probabilities of various pre-defined outcomes]
+
+---
+# Implementing Risk Assessment 
+
+<img src="daniel-et-al.png" width="100%" align="middle" />
+
 
 ---
 # Failure to consider uncertainty in wildfire and harvest 

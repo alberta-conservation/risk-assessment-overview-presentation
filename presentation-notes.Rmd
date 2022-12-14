@@ -113,23 +113,36 @@ When talking about *in situ* oils sands development, however, the issue isn't la
 
 - However, with the rapid rate of climate change, it is very likely that many species and ecosystems will not respond as historically, and these shifts may exceed the adaptive capacity of many organisms, leading to unanticipated outcomes from management and mitigation decisions.  
 
-- As such, what we are proposing here is to develop a framework for assessing species vulnerabilities that takis into account both industrial development and climate change. 
+- As such, the goal of this research is to develop a framework for assessing species vulnerabilities that takes into account both industrial development and climate change. 
 
-- The key aspect of this framework, is that it will have to deal with the many uncertainties in what the future holds, as well as all of the things we don't or can't know. 
+- The key aspect of this framework is that it will have to deal with the many uncertainties in what the future holds, as well as all of the things we don't or can't know. 
 
 - So if there is one word I want you to keep in mind as we go through this proposed research, it is UNCERTAINTY. 
 
-- This uncertainty is why, instead of going down the the traditional pathway of prediction, we are proposing a true risk assessment approach to understanding these vulnerabilities. 
+- This uncertainty is why, instead of going down the traditional pathway of prediction, we are proposing a true risk assessment approach to understanding and mitigating these vulnerabilities. 
 
 
-### **Slide __: Defining the problem** 
+### **Slide __: The problem of predicting the future** 
 I want to take a minute here to define the problem in using models to predict future ecological conditions and species populations, and why we think it's important to take a risk assessment approach. 
 
-But first, we need to explain exactly what we mean by risk assessment. 
+There are 2 main things to keep in mind here: 
+
+1. We know that the future is uncertain 
+
+2. Working within our knowledge limitations, it is very difficult (some might say impossible) to accurately predict future ecosystem states across large spatial extents and over long time horizons 
 
 
+### **Slide __: The limits of deterministic modeling** 
+The most widely used method to predict species responses to changing environments is to model the relationship between, say, time since disturbance and, for example, percent forest cover, and then use a previously fitted habitat model to predict species population at a future time based on the mean expected value of future forest cover. This is an example of what we call a deterministic model, as the predictor variable is assumed to determine the response. 
 
+This as simplified example, but it does show essentially how the process is most often used.  
 
+### **Slide __: The limits of deterministic modeling** 
+The problem is that there is a great deal of variability in the potential outcomes of the many processes driving future forest cover across the landscape, including wildfire and timber harvesting. This means that there are a wide range of potential outcomes in terms of future conditions, creating a lot of uncertainty in what is going to happen. 
+
+And that uncertainty tends to get greater as the time since the origin increases.  
+
+So what we can see here is that relying on that mean predicted value of future conditions in order to make decisions, as is typically done within a deterministic framework, might not be the best option. 
 
 ### **Slide __: the risk assessment approach** 
 Why use risk assessment? 
@@ -138,12 +151,29 @@ Why use risk assessment?
 - the key objective of the risk assessment approach is to develop the tools to formally account for that uncertainty 
 - the result is that uncertainty can then be incorporated into the decision-making process 
 
-### **Slide __: the risk assessment approach** 
-In describing this approach, I'm going to talk about 2 papers that I think really lay the groundwork for why we should be taking a risk assessment approach, and provide a roadmap for how to go about it. 
+### **Slide __: Implementing the risk assessment approach** 
+I want to illustrate what I've been describing using a paper that I think really lays the groundwork for why we should be taking a risk assessment approach, and provides an initial roadmap for getting started on this research. 
 
-- the first is a paper in Forest Ecology and Management lead by Colin Daniel at ApexRMS consulting service, where they show that failing to consider uncertainty in the outcomes of ecological processes -- in this case wildlifer -- means that timber harvest projections are almost always going to be overly optimistic; particularly under climate change. 
+- This is a paper in Forest Ecology and Management lead by Colin Daniel at ApexRMS consulting service, where they show how failing to consider uncertainty in the outcomes of ecological processes -- in this case wildfire and timber harvest -- means that timber harvest projections are almost always going to be overly optimistic; particularly under future climate change. 
 
-- the second paper is by a friend of mine form my PhD program named Brian Stevens, where he took a risk assessment approach to the problem of setting turkey harvest regulations in Michigan. The uniqueness of this project was not only the use of risk assessment, but also that they incorporated it into a structured decision-making process with stakeholder input to determine management targets and trigger points for changing management.
+They issue they illustrate in the paper is that in planning forest management over long time scales, most planners set target harvest rates for each time period from deterministic projections based on mean expected values of models for wildfire and timber harvest, ignoring the high variability in these processes over time, as well as the potential for climate change to increase wildfire through time.  
+
+They then developed a state and transition simulation model that could both replicate the deterministic projections from the forest planning software, and also incorporate variability in the processes, including climate change, to provide a more comprehensive picture of the range of possible harvest levels. Essentially, they create a stress test for the predicted harvest levels through time. 
+
+
+### **Slide __: Failure to consider uncertainty in wildfire and harvest**
+
+Without going into a lot of detail on the methods, what they are showing here in the plot on the left is that year-to-year uncertainty in wildfire was high, particularly under the climate change scenario, where the predicted proportion of the landscape burned is likely to be much higher than expected from the deterministic models. 
+
+The plot on the right shows the volume of timber harvest each decade on the y axis, illustrating that again, uncertainty in timber harvest volumes can abe high, and that accounting for that uncertainty shows a high likelihood of shortfalls in timber harvest, particularly under climate change. 
+
+
+### **Slide __: Probabilities of harvest shortfall**
+What this plot is showing is a density distribution of the probability of maximum decadal harvest shortfalls over a 100 year period. 
+
+
+
+
 
 
 ### **Slide __: setting management reference points** 
