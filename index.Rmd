@@ -58,35 +58,31 @@ background-size: cover
 
 ---
 
-# **Climate Adaptation and the R.A.D. framework** 
+# **Climate Vulnerability and Adaptation** 
 
 ## The  world has moved on...  
 
+# .center[Species are **Vulnerable** to change]  
 
-# .center[ **Adaptation**]  
+## What can we do? 
 
-## So what should we do? 
-
-# .center[**R**esist | **A**ccept | **D**irect]
+# .center[We can **Adapt** to this change]  
 
 
 ---
 # **Some terms:** 
 
-## **Adaptation:** intentional adjustments to natural systems to reduce risks from climate change
+## **Vulnerability:** *Exposure*, *Sensitivity*, and *Adaptive Capacity* of species or systems to environmental change
 <br />
-## **Vulnerability:** *Exposure*, *Sensitivity*, and *Adaptive Capacity* of species or systems 
+## **Adaptation:** intentional adjustments to natural systems to address bioidiversity risks posed by vulnerability 
 <br />
-
 
 ---
-
-# **Ecosystem Transformation** 
-## The emergence of new ecological states
-<br />
-## Caused by disturbance-climate Interactions
-<br />
-## Occurring at unprecedented rates
+# The overall goals of the Risk Assessment framework 
+## 1. Assess boidiversity risks in terms of climate vulnerability 
+## 2. Inform adaptation strategies for decision-making
+<br >
+# .center[The key challenge is uncertainty ]
 
 ---
 layout: false 
@@ -99,7 +95,7 @@ layout: false
 # **Changing Response Pathways in the Boreal ** 
 
 .pull-left[
-### 1. **Resilliance:** historic  successional pathway
+### 1. **Resilience:** historic  successional pathway
 ### 2. **Restructuring:** same composition, new structure 
 ### 3. **Reassembly:** same structure, new composition
 ### 4. **Replacement:** new composition and structure
@@ -115,28 +111,35 @@ layout: false
 layout: true 
 background-image: url('background.png')
 background-size: cover
----
-# **Responding to RADical Change:** **R**esist-**A**ccept-**D**irect 
-### (Lynch et al. 2022; Frontiers in Ecology and the Environment) 
-
-## Identify adaptation pathways based on Ecological, Economic, and Societal feasibility to: 
-## - **Resist** ecological transformations (i.e. maintain or restore past conditions)
-## - **Accept** coming changes without intervention 
-## - **Direct** change to achieve a desired future state 
 
 ---
-# The overall goals of the Risk Assessment framework 
-## 1. Assess boidiversity risks in terms of climate vulnerability 
-## 2. Inform adaptation strategies according to the RAD framework 
-
----
-# **The Risk Assessment Approach** 
-
-## Why? 
-
+# **The Problem of Predicting the Future** 
+<br >
 ##.center[We know that the future is uncertain.]
 
-##.center[The key objective of the risk assessment approach is to develop the necessary tools to deal with that uncertainty. ]
+##.center[Future ecosystem states are difficult (*Impossible*) to predict]
+
+
+---
+layout: false 
+
+# **Prediction vs. Forecasting** 
+
+```{r reg-plot, echo = FALSE, fig.show = "hide", include = FALSE}
+library(ggplot2)
+n <- 100; a = 1; b = 0.15; sigma2 = 5; x = sample(seq(10, 100, 10), 100, replace = TRUE)
+eps = rnorm(n, mean = 0, sd = sqrt(sigma2)) 
+y <- a + b*x + eps 
+
+ggplot() + aes(x, y) + geom_point(colour = "blue") + stat_smooth(method = lm, formula = y ~ x, geom = "smooth") + xlab("% forest cover") + ylab("Bird density")
+
+ggsave(filename = "reg-plot.png", width = 2.5, height = 1.8) 
+
+```
+.left-plot[
+![](reg-plot.png)
+]
+
 
 
 ---
@@ -162,7 +165,14 @@ background-size: cover
 
 - What is the risk that at least 2 of the dice will be < 3?  
 
+---
+# The Risk Assessment Approach 
 
+## Why?
+
+## .center[The outocme of mulitple interacting stochastic processes is inherently uncertain]
+
+##.center[The key objective of the risk assessment approach is to develop the necessary tools to deal with that uncertainty. ]
 
 ---
 # Failure to consider uncertainty in wildfire and harvest 
@@ -172,6 +182,22 @@ background-size: cover
 # Probabilities of harvest shortfall
 
 ![](harvest-shortfall.png)
+
+
+---
+# **Responding to RADical Change:** **R**esist-**A**ccept-**D**irect 
+### (Lynch et al. 2022; Frontiers in Ecology and the Environment) 
+
+## Identify adaptation pathways based on Ecological, Economic, and Societal feasibility to: 
+## - **Resist** ecological transformations (i.e. maintain or restore past conditions)
+## - **Accept** coming changes without intervention 
+## - **Direct** change to achieve a desired future state 
+
+
+---
+
+# Assessing and enhancing adaptive capacity for at-risk species 
+
 
 ---
 layout: false 

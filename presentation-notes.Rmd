@@ -31,7 +31,7 @@ knitr::opts_knit$set(root.dir = normalizePath(".."))  #Sets the working director
 
 
 ### **Slide 1: Introduction** 
-Hi again everyone. It's great to be able to do this presentation so early in the project cycle so we can start the feedback process and make sure we're all going down the same road in terms of understanding the project and what expectations are for developing this research. 
+Hi again everyone. It's great to be able to do this presentation so early in the project cycle so we can start the feedback process and make sure we're all going down the same road in terms of understanding the project and what expectations are, and the potential, for developing this research. 
 
 ### **Slide 2:Roadmap** 
 I want to start of with a quick roadmap of the presentation so we all know where we're going with this. 
@@ -40,32 +40,95 @@ I want to start of with a quick roadmap of the presentation so we all know where
 
 - Second, I want to give a more specific description of what we mean by risk assessment, and talk about why we want to approach it this way. 
 
-- Finally, I'm going to try to tie it together by talking about why this approach is so relevant to the decision-making process. 
+- Finally, I'm going to try to tie it together by talking about why this approach is so relevant to the decision-making process, because informing on-the-ground decisions is really the ultimate purpose of this research. 
 
-### **Slide 3: Climate Adaptation and the R.A.D. framework** 
+### **Slide 3: Climate Change and Climate Adaptation** 
 So, the big question facing us here is: how can we best understand and mitigate the risks to biodiversity imposed by oil sands development in Alberta. 
-In the short term and at small spatial scales, we're mainly talking about habitat changes from disturbances like well pads, roads, and seismic lines. In the long term, however, one of the bigger challenges in answering this question is dealing with the complications imposed by climate change.  
+In the short term and at small spatial scales, we're mainly talking about habitat changes from disturbances like well pads, roads, and seismic lines. In the long term, however,and over large spatial extents, one of the bigger challenges in answering this question is dealing with the complications imposed by climate change.  
 
 - Traditionally, we would have thought about mitigation, restoration, and biodiversity conservation according to historical responses of landscapes to disturbance, and within the context of the natural range of variability for species, ecosystems, and landscapes. 
 
-- Because of climate change, however, as Roland Deschaine kept reminding himself in Steven King's Gunslinger series, 'The world has moved on', meaning that things aren't happening the way they used to. 
+- Because of climate change, however, we can say with a high degree of confidence that 'The world has moved on', meaning that things aren't happening the way they used to. 
 
 - The wide-ranging and inevitable impacts of climate change on disturbance regimes, vegetation successional pathways, and species survival and reproduction means that reliance on traditional paradigms in wildlife management and restoration ecology are unlikely to achieve long term, large scale conservation goals. 
 
-- As a result, managers are increasingly shifting to a climate adaptation approach to managing wildlife and developing long-term conservation plans in the face of climate change. 
+- And so of course, many species and ecosystems are vulnerable to the effects of climate change
 
-- And, what has come to be formalized as the resist-accept-direct framework is becoming central to developing climate adaptation strategies. 
+- As a result, managers are increasingly shifting to a climate adaptation approach to managing wildlife and developing long-term conservation plans in the face of climate change. 
 
 
 ### **Slide 4: Some terms** 
-As we talk about the context, I want to define some terms: 
+As we talk about the context, I want to give specific definitions for these terms: 
 
-- First, when we say adaptation in this context, we are talking about the intentional adjustment of natural systems to reduce risks from climate change.  
-  - For example 
+- First is Vulnerability, which is usually defined as the combination of exposure, sensitivity, and adaptive capacity to new conditions brought on by climate change. 
+
+  - For example, the boreal forest is warming at a much faster rate than other areas of the globe, meaning that boreal species generally have a higher exposure to climate change than many others. Within the boreal, there are also areas and ecosystems that can have more exposure, such as grasslands, and also refugia where changes will be less drastic. 
+  
+   - Sensitivity is the degree to which a species is affected by climate change. It has been shown that warmer and drier conditions have a big effect on seedling survival and tree growth in a number of boreal conifers, meaning they can be highly sensitive when exposed. Another example of sensitivity is moose being negatively affected by the increase in winter tick populations brought on by warmer winters. 
+   
+   - Finally adaptive capacity is the ability of a species to cope with or adjust to the effects of climate change, such as species being able to shift their range or respond behaviourally. For example, we have seen a number of species expanding their ranges northward as temperatures warm, where previously they would have been limited by extreme winter temperatures. Other species, such as the Karner Blue Butterfly, have had their reproduction negatively affected by longer growing seasons, and with their limited dispersal ability, have been unable to colonize new habitats where the climate is more conducive. 
+
+
+- Second when we say adaptation in this context, we are talking about the intentional adjustment of natural systems to reduce risks from climate change. 
+
+  - This is a big topic, but coming back to the Karner Blue Butterfly, an example of adaptation woudl be using assisted migration to help them colonize new areas. 
+  
+  -So, essentially, adaptation is the result of the fact that we know we can't go back to previous conditions, so we need to set new expectations and find new strategies to conserve biodiversity under changing conditions. 
+  
+
+### **Slide 5: Ecosystem transformation** 
+- One thing I want to stress here is that being in an area with high levels of anthropogenic disturbance can be a big factor in species vulnerability, and a lot of the same factors that determine sensitivity to climate change can also make species sensitive to industrial development in the OSR.  
+
+
+
+### **Slide 5: Ecosystem transformation** 
+One of the biggest challenges in the OSR is the potential for ecosystem transformations brought on by the interaction of climate change and industrial development. 
+
+Historically, ecosystems changed as a result of natural fluctuations in climate and other processes. Human expansion and the development of agriculture added another dimension to these changes. Now, we are seeing the synergistic effects of industrialization and anthropogenic disturbance accelerate the rate of change and create increased uncertainty in future conditions. 
+
+In terms of forests, what we see is that globally, forests are becoming younger and more open, and climatic extremes are favoring trees of lower stature. 
+
+- Forest tree species composition is trending towards species more tolerant of warmer temperatures drier conditions. 
+
+### **Slide __: Changing response pathways**  
+Now, it is possible for climate change to cause a complete regime shift from forest to non-forest, and shifts like this on a large scale have been predicted for large parts of boreal Alberta, converting it to more of a Parkland ecosystem like we have around Edmonton. 
+
+However, in the nearer-term, it is much more likely that we will see response pathways to disturbance that resemble those described by Seidle and Turner, where the forest remains but changes either structurally or compositionally or both. 
+
+Essentially, they described 5 different possible outcomes: 
+1. On the one hand, after a disturbance, a forest could come back essentially the way it was before, what they called Resilience, where the forest follows the historic successional pathway. 
+2. On the other hand, a forest could undergo restructuring, where it regrows with the same species composition but a different structure, for example trees could be smaller or less dense; or Reassembly, where the structure is the same but the species are different. 
+3. If a forest changes in both composition and structure, they termed that 'Replacement', becasue it is essentially a whole different forest type. 
+4. Most drastically, an area could undergo a total 'Regime Shift', where it is no longer even a forest. 
+
+
+Why is this important? Because if we are going to estimate the risks to species from oil sands development, we have to do so within the context of the primary disturbances and successional pathways within the region. In this case, the major disturbances in the region are fire and forest harvesting, meaning any mitigation strategies must take into account how forests respond to those disturbances under climate change. And one thing we've seen is that high levels of anthropogenic disturbance, such as forest harvesting, can accelerate changes in forest response pathways beyond what climate change alone would do. 
+
+### **Slide __: Fragmentation** 
+When talking about *in situ* oils sands development, however, the issue isn't large-scale disturbances but rather high levels of fragmentation brought on by mining infrastructure, such as well pads, pipelines, roads and, most extensively, seismic lines. While these developments result in direct habitat loss, the extensive network of exploratory seismic lines fragment landscape patterns and alter movements of organisms, substantially affecting landscape patterns, ecological processes, and biotic interactions among species. Although the intensity of oil sands disturbance (footprint) from *in situ* mining is lower locally than surface mining, the broad extent of the area affected and their potential to degrade adjacent interior habitat, as well as alter animal movements, means the impact to biodiversity could be greater. 
+
+### **Slide __: What we need to know** 
+
+- There has already been a great deal of work done to examine how forests and peatlands in the OSR recover from oil sands disturbances, as well as on how these disturbances affect wildlife species such as songbirds, caribou, wolves, etc.. 
+
+- However, with the rapid rate of climate change, it is very likely that many species and ecosystems will not respond as historically, and these shifts may exceed the adaptive capacity of many organisms, leading to unanticipated outcomes from management and mitigation decisions.  
+
+- As such, what we are proposing here is to develop a framework for assessing species vulnerabilities that takis into account both industrial development and climate change. 
+
+- The key aspect of this framework, is that it will have to deal with the many uncertainties in what the future holds, as well as all of the things we don't or can't know. 
+
+- So if there is one word I want you to keep in mind as we go through this proposed research, it is UNCERTAINTY. 
+
+- This uncertainty is why, instead of going down the the traditional pathway of prediction, we are proposing a true risk assessment approach to understanding these vulnerabilities. 
 
 
 ### **Slide __: Defining the problem** 
-I want to take a minute here to define the problem in using ecological models to predict future conditions. 
+I want to take a minute here to define the problem in using models to predict future ecological conditions and species populations, and why we think it's important to take a risk assessment approach. 
+
+But first, we need to explain exactly what we mean by risk assessment. 
+
+
+
 
 
 ### **Slide __: the risk assessment approach** 
@@ -73,7 +136,7 @@ Why use risk assessment?
 
 - we know that the future is uncertain 
 - the key objective of the risk assessment approach is to develop the tools to formally account for that uncertainty 
-- the result is that uncertiainty can then be incorporated into the decision-making process 
+- the result is that uncertainty can then be incorporated into the decision-making process 
 
 ### **Slide __: the risk assessment approach** 
 In describing this approach, I'm going to talk about 2 papers that I think really lay the groundwork for why we should be taking a risk assessment approach, and provide a roadmap for how to go about it. 
@@ -108,6 +171,15 @@ In describing this approach, I'm going to talk about 2 papers that I think reall
 ### **Slide __: The critical importance of spatial scale** 
 
 
+### **Slide __: Final Thought** 
+
+We can't really make predictions because we can't model the system perfectly, and there are too many things we don't know. There's just too much uncertainty. 
+
+However, we shouldn't let that stop us from making the best decisions we can based on what we do know or can shrewdly guess. 
+
+On the other hand, we shouldn't pretend we know things we don't, and make decision based on predictions we know a priori are almost certain to be wrong.  
+
+The answer is to explicitly incorporate that uncertainty into the decision-making process, and by that use our best estimates of the risks of various outcomes to guide us through the process. 
 
 
 
