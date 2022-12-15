@@ -229,7 +229,7 @@ background-size: cover
 
 # Final thoughts 
 
-## Decision need to be made under uncertaitny 
+## Decisions need to be made under uncertaitny 
 
 ## We need to anknowledge and incorporate that uncertianty 
 
