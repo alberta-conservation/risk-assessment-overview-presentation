@@ -136,7 +136,7 @@ layout: false
 
 # **The limits of deterministic modelling** 
 
-```{r reg-plot, echo = FALSE, fig.show = "hide", include = FALSE}
+```{r reg-plot, echo = FALSE, fig.show = "hide", include = FALSE, eval = FALSE}
 library(ggplot2)
 n <- 100; a = 1; b = 0.15; sigma2 = 5; x = sample(seq(10, 100, 10), 100, replace = TRUE)
 set.seed(1234)
