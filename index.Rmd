@@ -78,13 +78,6 @@ background-size: cover
 <br />
 
 ---
-# The overall goals of the Risk Assessment framework 
-## 1. Assess boidiversity risks in terms of climate vulnerability 
-## 2. Inform adaptation strategies for decision-making
-<br >
-# .center[The key challenge is uncertainty ]
-
----
 layout: false 
 
 # **Ecosystem Transformation** 
@@ -103,14 +96,33 @@ layout: false
 ]
 
 .pull-right[
-<img src="response-pathways.png" width="75%" align="right" />
+![](response-pathways.jpg)
 #### (Seidle and Turner 2022; PNAS)
 ]
 
 ---
+# Effects of Forest Fragmentation 
+.pull-left[
+<img src="frag.png" width="100%" align="middle" />
+]
+
+.pull-right[
+<img src="apparent-competition.png" width="75%" align="right">
+#### (Serrouya et a,. 2020; Ecological Modeling)
+]
+---
 layout: true 
 background-image: url('background.png')
 background-size: cover
+
+---
+# The overall goals of the Risk Assessment framework 
+
+## 1. Assess boidiversity risks in terms of vulnerability to landscape and climate change 
+
+## 2. Inform the development of adaptation strategies 
+<br >
+# .center[The key challenge is uncertainty ]
 
 ---
 # **The Problem of Predicting the Future** 
@@ -146,14 +158,14 @@ ggsave(filename = "reg-plot.png", width = 2.5, height = 1.8)
 <img src="reg-plot-uncertainty.png" width="70%" align="left" />
 
 ---
-# **Forecasting and the Risk Assessment Approach**  
+# **Forecasting and the Risk Assessment Framework**  
 
-## Why?
+## What do these things mean?
 
-## .center[Forecasting formally accounts for uncertainty in future outcomes]
+## .center[Forecasting estimates future conditions based on knowledge of ecological processes]
 <br >
 
-##.center[Risk assessment estimates the probabilities of various pre-defined outcomes]
+##.center[Risk assessment calculates the probabilities of various outcomes based on the forecasting model]
 
 ---
 # Implementing Risk Assessment 
@@ -169,6 +181,10 @@ ggsave(filename = "reg-plot.png", width = 2.5, height = 1.8)
 # Probabilities of harvest shortfall
 
 ![](harvest-shortfall.png)
+
+---
+# From Forestry to Oil Sands 
+
 
 
 ---

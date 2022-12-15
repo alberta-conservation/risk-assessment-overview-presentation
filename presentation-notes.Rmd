@@ -67,18 +67,17 @@ As we talk about the context, I want to give specific definitions for these term
    - Sensitivity is the degree to which a species is affected by climate change. It has been shown that warmer and drier conditions have a big effect on seedling survival and tree growth in a number of boreal conifers, meaning they can be highly sensitive when exposed. Another example of sensitivity is moose being negatively affected by the increase in winter tick populations brought on by warmer winters. 
    
    - Finally adaptive capacity is the ability of a species to cope with or adjust to the effects of climate change, such as species being able to shift their range or respond behaviourally. For example, we have seen a number of species expanding their ranges northward as temperatures warm, where previously they would have been limited by extreme winter temperatures. Other species, such as the Karner Blue Butterfly, have had their reproduction negatively affected by longer growing seasons, and with their limited dispersal ability, have been unable to colonize new habitats where the climate is more conducive. 
-
+   
+   
+- But the fact is, these same aspects of species that define climate vulnerability are equally applicable to effects of industrial development. Some species will be affected very little -- or even respond positively --  such as some generalist bird species that do well around human development; while others, such as caribou, will have a strong negative response due to high exposure and sensitivity and a lack of adaptive capacity. 
 
 - Second when we say adaptation in this context, we are talking about the intentional adjustment of natural systems to reduce risks from climate change. 
 
-  - This is a big topic, but coming back to the Karner Blue Butterfly, an example of adaptation woudl be using assisted migration to help them colonize new areas. 
+  - This is a big topic, but coming back to the Karner Blue Butterfly, an example of adaptation would be using assisted migration to help them colonize new areas to avoid negative impacts of climate change. In the case of caribou, which are subject to increased predation in areas with extensive linear features, an adaptation approach would be the wolf culling.  
   
-  -So, essentially, adaptation is the result of the fact that we know we can't go back to previous conditions, so we need to set new expectations and find new strategies to conserve biodiversity under changing conditions. 
+- So, essentially, adaptation is the result of the fact that we know we can't go back to previous conditions, so we need to set new expectations and find new strategies to conserve biodiversity under changing conditions. 
   
-
-### **Slide 5: Ecosystem transformation** 
-- One thing I want to stress here is that being in an area with high levels of anthropogenic disturbance can be a big factor in species vulnerability, and a lot of the same factors that determine sensitivity to climate change can also make species sensitive to industrial development in the OSR.  
-
+- One thing that is potentially problematic in the OSR is that being in an area with high levels of anthropogenic disturbance can actually increase species vulnerability to climate change stressors. 
 
 
 ### **Slide 5: Ecosystem transformation** 
@@ -90,30 +89,37 @@ In terms of forests, what we see is that globally, forests are becoming younger 
 
 - Forest tree species composition is trending towards species more tolerant of warmer temperatures drier conditions. 
 
-### **Slide __: Changing response pathways**  
+### **Slide 6: Changing response pathways**  
 Now, it is possible for climate change to cause a complete regime shift from forest to non-forest, and shifts like this on a large scale have been predicted for large parts of boreal Alberta, converting it to more of a Parkland ecosystem like we have around Edmonton. 
 
 However, in the nearer-term, it is much more likely that we will see response pathways to disturbance that resemble those described by Seidle and Turner, where the forest remains but changes either structurally or compositionally or both. 
 
 Essentially, they described 5 different possible outcomes: 
-1. On the one hand, after a disturbance, a forest could come back essentially the way it was before, what they called Resilience, where the forest follows the historic successional pathway. 
-2. On the other hand, a forest could undergo restructuring, where it regrows with the same species composition but a different structure, for example trees could be smaller or less dense; or Reassembly, where the structure is the same but the species are different. 
-3. If a forest changes in both composition and structure, they termed that 'Replacement', becasue it is essentially a whole different forest type. 
-4. Most drastically, an area could undergo a total 'Regime Shift', where it is no longer even a forest. 
 
+1. On the one hand, after a disturbance, a forest could come back essentially the way it was before, what they called Resilience, where the forest follows the historic successional pathway. 
+
+2. On the other hand, a forest could undergo restructuring, where it regrows with the same species composition but a different structure, for example trees could be smaller or less dense; or Reassembly, where the structure is the same but the species are different. 
+
+3. If a forest changes in both composition and structure, they termed that 'Replacement', becasue it is essentially a whole different forest type. 
+
+4. Most drastically, an area could undergo a total 'Regime Shift', where it is no longer even a forest. 
 
 Why is this important? Because if we are going to estimate the risks to species from oil sands development, we have to do so within the context of the primary disturbances and successional pathways within the region. In this case, the major disturbances in the region are fire and forest harvesting, meaning any mitigation strategies must take into account how forests respond to those disturbances under climate change. And one thing we've seen is that high levels of anthropogenic disturbance, such as forest harvesting, can accelerate changes in forest response pathways beyond what climate change alone would do. 
 
-### **Slide __: Fragmentation** 
-When talking about *in situ* oils sands development, however, the issue isn't large-scale disturbances but rather high levels of fragmentation brought on by mining infrastructure, such as well pads, pipelines, roads and, most extensively, seismic lines. While these developments result in direct habitat loss, the extensive network of exploratory seismic lines fragment landscape patterns and alter movements of organisms, substantially affecting landscape patterns, ecological processes, and biotic interactions among species. Although the intensity of oil sands disturbance (footprint) from *in situ* mining is lower locally than surface mining, the broad extent of the area affected and their potential to degrade adjacent interior habitat, as well as alter animal movements, means the impact to biodiversity could be greater. 
+### **Slide 7: Effects of Forest Fragmentation** 
+When talking about *in situ* oils sands development, however, the issue isn't large-scale disturbances but rather high levels of fragmentation brought on by mining infrastructure, such as well pads, pipelines, roads and, most extensively, seismic lines. While these developments result in direct habitat loss, the extensive network of exploratory seismic lines fragment landscape patterns and alter movements of organisms, substantially affecting landscape patterns, ecological processes, and biotic interactions among species. 
 
-### **Slide __: What we need to know** 
+I know we're all well aware of how linear features negatively affect caribou through apparent competition and increased predation, and we're beginning to understand more about how fragmentation affects species that rely on forest interior habitat, such as many songbirds. 
+
+Although the intensity of oil sands disturbance from *in situ* mining is lower locally than surface mining, the broad extent of the area affected and their potential to degrade adjacent interior habitat, as well as alter animal movements, means the impact to biodiversity could be greater. 
+
+### **Slide 8: The overall goals of the Risk Assessment framework** 
 
 - There has already been a great deal of work done to examine how forests and peatlands in the OSR recover from oil sands disturbances, as well as on how these disturbances affect wildlife species such as songbirds, caribou, wolves, etc.. 
 
 - However, with the rapid rate of climate change, it is very likely that many species and ecosystems will not respond as historically, and these shifts may exceed the adaptive capacity of many organisms, leading to unanticipated outcomes from management and mitigation decisions.  
 
-- As such, the goal of this research is to develop a framework for assessing species vulnerabilities that takes into account both industrial development and climate change. 
+- As such, the goal of this research is to develop a framework for assessing species vulnerabilities that takes into account both industrial development and climate change, and use that assessment to inform the development of adaptation strategies. 
 
 - The key aspect of this framework is that it will have to deal with the many uncertainties in what the future holds, as well as all of the things we don't or can't know. 
 
@@ -122,7 +128,7 @@ When talking about *in situ* oils sands development, however, the issue isn't la
 - This uncertainty is why, instead of going down the traditional pathway of prediction, we are proposing a true risk assessment approach to understanding and mitigating these vulnerabilities. 
 
 
-### **Slide __: The problem of predicting the future** 
+### **Slide 9: The problem of predicting the future** 
 I want to take a minute here to define the problem in using models to predict future ecological conditions and species populations, and why we think it's important to take a risk assessment approach. 
 
 There are 2 main things to keep in mind here: 
@@ -132,46 +138,58 @@ There are 2 main things to keep in mind here:
 2. Working within our knowledge limitations, it is very difficult (some might say impossible) to accurately predict future ecosystem states across large spatial extents and over long time horizons 
 
 
-### **Slide __: The limits of deterministic modeling** 
-The most widely used method to predict species responses to changing environments is to model the relationship between, say, time since disturbance and, for example, percent forest cover, and then use a previously fitted habitat model to predict species population at a future time based on the mean expected value of future forest cover. This is an example of what we call a deterministic model, as the predictor variable is assumed to determine the response. 
+### **Slide 10: The limits of deterministic modeling** 
+At this time, the most widely used method to predict species responses to changing environments is to model how something like percent forest cover and other variables will change over time, using drivers such as wildfire, timber harvest, and forest growth, and then use a previously fitted habitat model to predict species population at a future time based on the mean expected value of future forest cover. This is an example of what we call a deterministic model, where the mean or 'expected' value is used as the response as determined by the predictor variables. 
+
+In this example plot, the blue dots represent a 'realized' value of landscape-scale forest cover at 10 year intervals from 10 separate runs of a simulation model, and the blue line is the 'expected' value that would be used in deterministic prediction framework. 
 
 This as simplified example, but it does show essentially how the process is most often used.  
 
-### **Slide __: The limits of deterministic modeling** 
-The problem is that there is a great deal of variability in the potential outcomes of the many processes driving future forest cover across the landscape, including wildfire and timber harvesting. This means that there are a wide range of potential outcomes in terms of future conditions, creating a lot of uncertainty in what is going to happen. 
+### **Slide 11: The limits of deterministic modeling** 
+The problem is that there is a great deal of variability in the potential outcomes of the many processes driving future forest cover across the landscape, including wildfire and timber harvesting. This means that there are a wide range of potential outcomes in terms of future conditions, creating a lot of uncertainty in what will actually happen. 
 
 And that uncertainty tends to get greater as the time since the origin increases.  
 
-So what we can see here is that relying on that mean predicted value of future conditions in order to make decisions, as is typically done within a deterministic framework, might not be the best option. 
+I like to use the example of trying to predict the day a baby will be born. When they model the birth date as a function of time since conception, they get an expected value of 39 week, and using that they predict a 'due date.' How many babies are actually born on their due date? I have 2 kids: one was born a week earlier and the other one 2 weeks after. 
 
-### **Slide __: the risk assessment approach** 
-Why use risk assessment? 
+So the point I'm trying to make is that relying on that mean predicted value of future conditions, as is typically done within a deterministic framework, might not be the best option for making management and conservation decisions. 
 
-- we know that the future is uncertain 
-- the key objective of the risk assessment approach is to develop the tools to formally account for that uncertainty 
-- the result is that uncertainty can then be incorporated into the decision-making process 
+### **Slide 12: Forecasting and the risk assessment framework** 
+What we're proposing, instead, to use ecological forecasting within a risk assessment framework to inform the decision-making process.  
 
-### **Slide __: Implementing the risk assessment approach** 
+Forecasting itself is a way of estimating future conditions based on our knowledge and assumptions about the ecological processes driving those conditions. It is typically done using simulation models that incorporate those processes. 
+
+Risk assessment is a way of formally accounting for uncertainties in the outcomes of those processes. The assessment is typically carried out by running many iterations of a simulation model and calculating the probability of getting specific outcomes. 
+
+### **Slide 13: Implementing the risk assessment approach** 
 I want to illustrate what I've been describing using a paper that I think really lays the groundwork for why we should be taking a risk assessment approach, and provides an initial roadmap for getting started on this research. 
 
 - This is a paper in Forest Ecology and Management lead by Colin Daniel at ApexRMS consulting service, where they show how failing to consider uncertainty in the outcomes of ecological processes -- in this case wildfire and timber harvest -- means that timber harvest projections are almost always going to be overly optimistic; particularly under future climate change. 
 
-They issue they illustrate in the paper is that in planning forest management over long time scales, most planners set target harvest rates for each time period from deterministic projections based on mean expected values of models for wildfire and timber harvest, ignoring the high variability in these processes over time, as well as the potential for climate change to increase wildfire through time.  
+They issue they illustrate in the paper is that in planning forest management over long time scales, most planners set target harvest rates for each time period from deterministic projections based on mean expected values of models for wildfire and timber harvest, ignoring the high variability in these processes over time, as well as the potential for climate change to increase wildfire through time. Kind of like betting that all your kids and grandkids will be born on their due date.  
 
-They then developed a state and transition simulation model that could both replicate the deterministic projections from the forest planning software, and also incorporate variability in the processes, including climate change, to provide a more comprehensive picture of the range of possible harvest levels. Essentially, they create a stress test for the predicted harvest levels through time. 
+They then developed a state and transition simulation model that could both replicate the deterministic projections from the forest planning software, and also incorporate variability in the processes, including climate change, to provide a more comprehensive picture of the range of possible harvest levels. Essentially, they created a stress test for the forest management plan. 
 
 
-### **Slide __: Failure to consider uncertainty in wildfire and harvest**
+### **Slide 14: Failure to consider uncertainty in wildfire and harvest**
 
 Without going into a lot of detail on the methods, what they are showing here in the plot on the left is that year-to-year uncertainty in wildfire was high, particularly under the climate change scenario, where the predicted proportion of the landscape burned is likely to be much higher than expected from the deterministic models. 
 
-The plot on the right shows the volume of timber harvest each decade on the y axis, illustrating that again, uncertainty in timber harvest volumes can abe high, and that accounting for that uncertainty shows a high likelihood of shortfalls in timber harvest, particularly under climate change. 
-
+The plot on the right shows the volume of timber harvest each decade on the y axis, illustrating that again, uncertainty in timber harvest volumes can be high, and shortfalls in annual timber harvest are likely to occur regularly. These shortfalls were not evident from the deterministic model predictions. They also show that these shorfalls are likely to increase substantially over time as a result of climate change. 
 
 ### **Slide __: Probabilities of harvest shortfall**
 What this plot is showing is a density distribution of the probability of maximum decadal harvest shortfalls over a 100 year period. 
+What it shows is a mean maximum shortfall of ~23% under the no climate change scenario, and a mean maximum shortfall of ~61% under climate change. 
+
+Here, I want to make the point that what they were interested in in this study was the risk of falling below expected timber harvest volumes, but based on this framework, we could easily be looking at shortfalls in expected amounts wildlife habitat or key demographic rates such as reproduction or dispersal ability. 
 
 
+
+### **Slide__: Challange of separating forestry from oil sands** 
+Talk about how we can use existing landscape simulation models as baselines, and then build oil sands development and fragmentation into it. 
+
+Now, I don't want you to think from this that we're focusing a lot on forestry here, because we aren't. 
+In fact, the idea is to use existing landscape simulation models as baseline models, and then build in Oil Sands Footprint and Fragmentation effects on top of that. 
 
 
 
