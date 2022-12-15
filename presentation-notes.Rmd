@@ -177,57 +177,58 @@ Without going into a lot of detail on the methods, what they are showing here in
 
 The plot on the right shows the volume of timber harvest each decade on the y axis, illustrating that again, uncertainty in timber harvest volumes can be high, and shortfalls in annual timber harvest are likely to occur regularly. These shortfalls were not evident from the deterministic model predictions. They also show that these shorfalls are likely to increase substantially over time as a result of climate change. 
 
-### **Slide __: Probabilities of harvest shortfall**
-What this plot is showing is a density distribution of the probability of maximum decadal harvest shortfalls over a 100 year period. 
+### **Slide 15: Probabilities of harvest shortfall**
+What this plot is showing is a density distribution of the probability of maximum harvest shortfalls over a 100 year period. 
 What it shows is a mean maximum shortfall of ~23% under the no climate change scenario, and a mean maximum shortfall of ~61% under climate change. 
 
 Here, I want to make the point that what they were interested in in this study was the risk of falling below expected timber harvest volumes, but based on this framework, we could easily be looking at shortfalls in expected amounts wildlife habitat or key demographic rates such as reproduction or dispersal ability. 
 
 
 
-### **Slide__: Challange of separating forestry from oil sands** 
-Talk about how we can use existing landscape simulation models as baselines, and then build oil sands development and fragmentation into it. 
+### **Slide 16: From Forestry to Oil Sands** 
+One of our first challenges on this project is going to be developing our landscape simulation models to highlight the influence of oil sands development on ecosystem processes. fortunately for us, we don't have to start from scratch. 
 
-Now, I don't want you to think from this that we're focusing a lot on forestry here, because we aren't. 
-In fact, the idea is to use existing landscape simulation models as baseline models, and then build in Oil Sands Footprint and Fragmentation effects on top of that. 
+- Because wildfire and forestry are still the major disturbances, our models will have to use those processes as a baseline and layer oil sands development on top  
 
+- Fortunately, there are already forest landscape models for the OSR either published or in progress, including a state-and-transition simulation model being developed by Diana Stralberg's team at CFS as we speak. 
 
-
-
-### **Slide __: setting management reference points** 
-
-- need to define what we mean by 'sustainable' 
-
-- Rather than a traditional population model, we have a SDM that assumes a relationship between habitat and population 
-
-- Rather than a harvest dynamics model, we have a model of population response to disturbance that links to the habitat-population model 
-
-- Rather than being limited by population assessment, we are limited by our understanding of 
-
-- We will use simulations and sensitivity analysis to identify uncertainties that have a large effect on performance measures 
+- Also fortunately for us, the Boreal Ecosystem Recovery and Assessment team has provided us with good information on seismic line recovery, and the new grad projects in our proposal are going to look at how edge effects from fragmentation will be affected by climate change. 
 
 
-### **Slide __: adapting research to the decision-making context** 
+### **Slide 17: Risk Assessment and Structured Decision Making (SDM)** 
+Now, because the ultimate goal of this project is to inform the decision-making process, I want to take a moment to talk about how that can work. 
 
-- Making state-dependent management decisions 
+This risk assessment approach has been developed and used extensively within fisheries management as a very effective way to set harvest quotas and avoid unacceptable losses in stocks of commercial fish species. It is also used extensively in epidemiology to model the risk of disease spread. But so far, it has seen little use in wildlife conservation circles. 
 
-- Decide on appropriate performance measures
+The link between risk assessment and management decissions, as I see it, is in Structured Decision Making (often just called SDM, but not to be confused with Species Distribution Modeling). 
 
-- making sure that guidance for climate adaptation is constant with the decision space and authority of the decision-makers, as well as the spatial scales at which the changes are occurring over which the managers are operating. 
+I'm not an expert in this yet, and so can't talk too much about it, but I can say that SDM is a formal process for making decisions under uncertainty (as I said, uncertainty is really the key word in this entire presentation); and it's beginnin to see greater use in wildlife managemnt. 
+
+The critical factor in using risk assessment in a structured decision making process is that it requires close collaboration among managers, researchers, and other stakeholders, and to me this is probably the most exciting part of this project, and the avenue where it can have the most benefits to conservation. 
+
+We can develop this research on our own, but to make the outputs effective, we need our industry partners to help us really understand the decision-making context, and thus be active participants throughout the process. 
+
+### **Slide 18: Looking Ahead** 
+So, looking ahead at what we can expect over the next year or so: 
+
+- My thought is to develop a prototype of this over the next 6 months or so, to see how it works and start getting feedback from collaborators. 
+
+- We're looking to publish a series of scientific manuscripts about this. The first will probably be a demonstration of the methodology and proof of concept. Following that, we can start publishing on what we learn in both a ecological and management context. 
+
+- We're also looking at developing tools that will put this information into the hands of managers and decision-makers, and this process will also require extensive collaboration to make sure the information is accessable and useful. 
 
 
-### **Slide __: The critical importance of spatial scale** 
+### **Slide 19: Final Thought** 
 
+As I've been saying, we can't really make predictions because we can't model the system perfectly, and there are too many things we don't know. There's just too much uncertainty. 
 
-### **Slide __: Final Thought** 
+However, we can't let that stop us from making the best decisions we can based on what we do know or can shrewdly guess. 
 
-We can't really make predictions because we can't model the system perfectly, and there are too many things we don't know. There's just too much uncertainty. 
-
-However, we shouldn't let that stop us from making the best decisions we can based on what we do know or can shrewdly guess. 
-
-On the other hand, we shouldn't pretend we know things we don't, and make decision based on predictions we know a priori are almost certain to be wrong.  
+On the other hand, we shouldn't pretend we know things we don't, and make decision based on predictions we know *a priori* are almost certain to be wrong.  
 
 The answer is to explicitly incorporate that uncertainty into the decision-making process, and by that use our best estimates of the risks of various outcomes to guide us through the process. 
+
+I think our risk assessment approach offer a powerful tool to accomplish that goal. 
 
 
 
