@@ -139,7 +139,7 @@ layout: false
 ```{r reg-plot, echo = FALSE, fig.show = "hide", include = FALSE}
 library(ggplot2)
 n <- 100; a = 1; b = 0.15; sigma2 = 5; x = sample(seq(10, 100, 10), 100, replace = TRUE)
-set.seed(111)
+set.seed(1234)
 eps = rnorm(n, mean = 0, sd = sqrt(sigma2)) 
 y <- a + b*x + eps*(0.05*x)
 
